@@ -11,8 +11,8 @@
     {{Form::label('body', 'Body')}}
     {{Form::textarea('body', '', ['class' => 'form-control', 'placeholder' => 'Body text', 'id' => 'article-ckeditor'])}}
   </div>
-  <div class="form-grouup">
-    {{Form::file('cover_image',['class' => 'my-sm-2'])}}
+  <div class="form-group">
+    {{Form::file('cover_image')}}
   </div>
   {{Form::submit('Submit', ['class' => 'btn btn-success'])}}
   {!! Form::close() !!}
