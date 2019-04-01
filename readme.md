@@ -7,8 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<strong>For this application I followed Traversy Media's guide on YouTube called Learning Laravel</strong>
-<a href="https://www.youtube.com/watch?v=EU7PRmCpx-0">
+<strong>For this application I followed Traversy Media's guide on YouTube called Learning Laravel </strong>
+<a href="https://www.youtube.com/watch?v=EU7PRmCpx-0"> You can find the guide HERE</a>
 <strong>This was for learning purposes only, all the dependencies can be found by following the guide</strong>
 
 
